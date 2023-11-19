@@ -6,3 +6,19 @@
 
 ![Alt Text](https://github.com/mshailja29/communicate-using-markdown2/blob/main/download.jpeg)
 
+# My Project
+
+## Introduction
+
+This is a brief introduction to my project.
+
+## Code Example
+
+```python
+def hello_world():
+    print("Hello, world!")
+
+hello_world()
+
+
+
